@@ -4,17 +4,17 @@
 收集了相关的Unity插件，供大家学习使用，如果用于商业活动，请购买相关版权
 
 #### 插件列表
-##### 1. [A* Pathfinding Project](https://www.baidu.com)
+##### 1. [A* Pathfinding Project](https://wwi.lanzoup.com/iujm30a9cjlc)
 一个功能强大并且易于使用的 Unity 寻路系统。通过快速的路径寻找，将在点对点之间找到最合适的路径解决方案
 ##### 2. [Behavior Designer](https://wwi.lanzoup.com/i06930a8l5xi)
 适合于不仅仅是程序员使用也适合于产品+设计师，Behavior Designer 提供具有强大的 API 的直观可视化编辑器，帮您轻松创建新任务
-##### 3. [DOTween Pro](https://www.baidu.com)
+##### 3. [DOTween Pro](https://wwi.lanzoup.com/igBSr0a9ckfc)
 可以用极少的代码处理复杂的动画效果，替代了我们在协程或者在Update里面撰写大量的逻辑控制代码
-##### 4. [Easy Save](https://www.baidu.com)
+##### 4. [Easy Save](https://wwi.lanzoup.com/i9oGJ0a9clmf)
 在实际开发中我们需要储存各种类型的数据，并想要数据得到保护，那么EasySave绝对是为这些需求量身定做的
-##### 5. [Lean Touch](https://www.baidu.com)
+##### 5. [Lean Touch](https://wwi.lanzoup.com/iLxkH0a9cn6b)
 为手指触摸控制你的游戏提供极其简单的解决方案，这让你可以快速添加触摸控制到你的游戏-无需代码
-##### 6. [Playmaker](https://www.baidu.com)
+##### 6. [Playmaker](https://wwi.lanzoup.com/i6Sq60a9coqh)
 这是unity3d最好的一款可视化编辑器，突破了非程序员止步于开发任务的障碍
 ##### 7. [Cross Platform Replay Kit](https://wwi.lanzoup.com/i5wMp0a8lqyf)
 能在移动设备iOS和Android上轻松进行屏幕录制，可以在 Unity 上对你的游戏和其他你想要录制记录的画面轻松进行屏幕录制
@@ -48,7 +48,7 @@ unity功能最全的本地化插件，可以本地化图片、文字、声音、
 一个非常好用的AssetBundle加载器，也是一个AssetBundle冗余分析工具
 ##### 21. [QHierarchy](https://wwi.lanzoup.com/i9rCo0a8rafg)
 增强Hierarchy窗口的功能，极大提升开发效率
-##### 22. [Koreographer Professional Edition](https://www.baidu.com)
+##### 22. [Koreographer Professional Edition](https://wwi.lanzoup.com/iQkIi0a9d9uh)
 制作音乐节拍类游戏的必备神器
 ##### 23. [Master Audio](https://wwi.lanzoup.com/iohK80a8rjmh)
 是Unity游戏开发的终极音频解决方案
@@ -107,3 +107,9 @@ Unity 最完善的自上而下解决方案
 ##### 45. [Enviro - Sky and Weather](https://pan.baidu.com/s/1AnIx2DIXxKbRnDgdQS3bgw)
 非常好用的天气资源
 *提取码：mmat*
+##### 46. [UMMORPG](https://pan.baidu.com/s/1vOEJcSHEZJ45Ckx8qSdJ3g)
+Unity最好的RPG游戏模板项目
+*提取码：y87r*
+##### 47. [UMOBA](https://wwi.lanzoup.com/i61nm0a9d3ri)
+Unity最好的MOBA游戏模板项目
+
